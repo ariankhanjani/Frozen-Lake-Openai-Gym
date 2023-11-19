@@ -1,2 +1,3 @@
 # Frozen-Lake
-Implementation RL Algorithms in Openai Gym Frozen-Lake Environment
+## Implementation of RL Algorithms in Openai Gym Frozen-Lake Environment
+an introduction to start training agents and simulating environments using openai gym library 
