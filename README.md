@@ -1,6 +1,8 @@
 # Simple Reinforcement Learning Example
+***
 ## Implementation of RL Algorithms in Openai Gym Frozen-Lake Environment
-### An introduction to starting training agents and simulating environments using the Openai gym library 
+***
+### An introduction to starting training agents and simulating environments using the Openai gym library in jupyter notebook 
 
 ![frozen_lake](https://github.com/ariankhanjani/Frozen-Lake-Openai-Gym/assets/89731483/4cc8850a-81c2-4132-87d8-401e2663e52c)
 
