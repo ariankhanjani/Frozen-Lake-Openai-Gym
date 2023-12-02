@@ -15,5 +15,3 @@
 3- Value Iteration
 
 4- Policy Iteration
-
-5- Loading ...
