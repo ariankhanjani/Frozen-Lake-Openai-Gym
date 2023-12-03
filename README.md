@@ -10,8 +10,10 @@
 
 1- Make an Environment and Take Sample Actions
 
-2- Make An Episode and Trajectory
+2- Make an Episode and Trajectory
 
 3- Value Iteration
 
 4- Policy Iteration
+
+5- Difference Between Policy Iteration and Value Iteration on 8x8 Mapsize
