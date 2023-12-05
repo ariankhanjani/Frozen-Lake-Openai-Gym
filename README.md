@@ -2,7 +2,7 @@
 ***
 ## Implementation of RL Algorithms in Openai Gym Frozen-Lake Environment
 ***
-### An introduction to starting training agents and simulating environments using the Openai gym library in Jupyter Notebook 
+### An introduction to  Markov Decision Process(MDP) notable algorithms using the Openai gym library in Jupyter Notebook 
 
 ![frozen_lake](https://github.com/ariankhanjani/Frozen-Lake-Openai-Gym/assets/89731483/4cc8850a-81c2-4132-87d8-401e2663e52c)
 
