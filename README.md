@@ -16,4 +16,4 @@
 
 4- Value Iteration
 
-5- Difference Between Policy Iteration and Value Iteration on 8x8 Mapsize
+5- Difference Between Policy Iteration and Value Iteration on 6x6 Mapsize
