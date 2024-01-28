@@ -8,8 +8,13 @@
 
 ### Covered Topics in this Repository:
 1- Make an Environment and Take Sample Actions
+
 2- Make an Episode and Trajectory
+
 3- Policy Iteration
+
 4- Value Iteration
+
 5- Difference Between Policy Iteration and Value Iteration on 8x8 Mapsize
+
 6- Loading ...
